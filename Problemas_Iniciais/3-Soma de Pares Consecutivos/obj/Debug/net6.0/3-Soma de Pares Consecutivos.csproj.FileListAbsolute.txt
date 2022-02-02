@@ -1,0 +1,15 @@
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.csproj.AssemblyReference.cache
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.AssemblyInfoInputs.cache
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.AssemblyInfo.cs
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.csproj.CoreCompileInputs.cache
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\bin\Debug\net6.0\3-Soma de Pares Consecutivos.exe
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\bin\Debug\net6.0\3-Soma de Pares Consecutivos.deps.json
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\bin\Debug\net6.0\3-Soma de Pares Consecutivos.runtimeconfig.json
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\bin\Debug\net6.0\3-Soma de Pares Consecutivos.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\bin\Debug\net6.0\ref\3-Soma de Pares Consecutivos.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\bin\Debug\net6.0\3-Soma de Pares Consecutivos.pdb
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\ref\3-Soma de Pares Consecutivos.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.pdb
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\3-Soma de Pares Consecutivos\obj\Debug\net6.0\3-Soma de Pares Consecutivos.genruntimeconfig.cache

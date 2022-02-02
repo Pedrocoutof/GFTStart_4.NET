@@ -1,0 +1,15 @@
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\bin\Debug\net6.0\2-Quadrado e ao cubo.exe
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\bin\Debug\net6.0\2-Quadrado e ao cubo.deps.json
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\bin\Debug\net6.0\2-Quadrado e ao cubo.runtimeconfig.json
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\bin\Debug\net6.0\2-Quadrado e ao cubo.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\bin\Debug\net6.0\ref\2-Quadrado e ao cubo.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\bin\Debug\net6.0\2-Quadrado e ao cubo.pdb
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.csproj.AssemblyReference.cache
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.AssemblyInfoInputs.cache
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.AssemblyInfo.cs
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.csproj.CoreCompileInputs.cache
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\ref\2-Quadrado e ao cubo.dll
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.pdb
+H:\Projetos.NET\GFT Start #4 .NET\Problemas_Iniciais\2-Quadrado e ao cubo\obj\Debug\net6.0\2-Quadrado e ao cubo.genruntimeconfig.cache
